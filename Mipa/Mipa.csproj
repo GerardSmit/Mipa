@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <Title>Mipa</Title>
+        <Authors>Mike Veldsink</Authors>
+        <Description>Mini Parser for text interchanged with key value attributes.</Description>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <RepositoryUrl>https://github.com/velddev/mipa</RepositoryUrl>
+        <RepositoryType>GIT</RepositoryType>
+    </PropertyGroup>
+
+</Project>
