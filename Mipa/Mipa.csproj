@@ -10,6 +10,7 @@
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
         <RepositoryUrl>https://github.com/velddev/mipa</RepositoryUrl>
         <RepositoryType>GIT</RepositoryType>
+        <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     </PropertyGroup>
 
 </Project>

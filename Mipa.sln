@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mipa", "Mipa\Mipa.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mipa.Tests", "Mipa.Tests\Mipa.Tests.csproj", "{D657859A-EB12-42E0-A3C6-EB0680127600}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mipa.Benchmark", "Mipa.Benchmark\Mipa.Benchmark.csproj", "{7D3987AD-73A7-4E0E-9DF7-5D6C60313797}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{D657859A-EB12-42E0-A3C6-EB0680127600}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D657859A-EB12-42E0-A3C6-EB0680127600}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D657859A-EB12-42E0-A3C6-EB0680127600}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D3987AD-73A7-4E0E-9DF7-5D6C60313797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D3987AD-73A7-4E0E-9DF7-5D6C60313797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D3987AD-73A7-4E0E-9DF7-5D6C60313797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D3987AD-73A7-4E0E-9DF7-5D6C60313797}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
