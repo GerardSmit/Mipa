@@ -2,6 +2,12 @@
 
 Mini Parser for text that contains attributed values. Originally designed to work similarily to Discord slash command arguments, but without having to set them as actual variables. Though its use-cases may vary to cases like terminal apps.
 
+## Install
+
+```sh
+$ dotnet add package Mipa
+```
+
 ## How to use it
 
 ```csharp

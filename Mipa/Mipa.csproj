@@ -10,6 +10,7 @@
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
         <RepositoryUrl>https://github.com/velddev/mipa</RepositoryUrl>
         <RepositoryType>GIT</RepositoryType>
+        <Version>1.0.1</Version>
     </PropertyGroup>
 
 </Project>
